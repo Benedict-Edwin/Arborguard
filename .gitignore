@@ -1,0 +1,35 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+backend/uploads/
+backend/output/
+backend/snapshots/
+backend/logs/
+
+# Node.js
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+.npm
+.eslintcache
+
+# Project Specific
+uploads/
+output/
+snapshots/
+logs/
+*.mp4
+*.jpg
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+.gemini/
